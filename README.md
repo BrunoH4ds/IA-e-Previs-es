@@ -53,6 +53,6 @@ Além disso, exploramos as variáveis mais importantes para definir o score de c
 - Previsões Finais: Novos dados de clientes são fornecidos para que o modelo faça previsões.
 - Análise de Importância: Identificação das características mais relevantes para a previsão do score de crédito.
 
-##Resultados
+# Resultados
 
 Os modelos foram avaliados com base na acurácia, e as previsões foram comparadas com os valores reais de teste. Também foi calculada a importância das variáveis para o modelo de Random Forest, permitindo uma melhor compreensão das características que mais influenciam o score de crédito.
